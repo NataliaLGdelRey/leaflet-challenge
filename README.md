@@ -20,6 +20,6 @@ The USGS is interested in building a new set of tools that will allow them to vi
 Leaflet Part 1
 -------------------
 
-
+<img width="696" alt="Screenshot Leaflet part 1" src="https://github.com/NataliaLGdelRey/leaflet-challenge/assets/131222843/4cdd6918-dc7e-4752-bfd9-bb254ec441f5">
 
 
